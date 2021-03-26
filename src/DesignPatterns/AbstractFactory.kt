@@ -1,5 +1,7 @@
 package DesignPatterns
-
+/*
+抽象工厂模式：为创建一组相关或相互依赖的对象提供一个接口而且无需指定它们的具体类
+ */
 import java.lang.IllegalArgumentException
 
 interface Computer1

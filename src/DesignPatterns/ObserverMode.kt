@@ -1,5 +1,9 @@
 package DesignPatterns
 
+/*
+观察者模式：观察者模式定义了一个一对多的依赖关系，让一个或多个观察者对象监听一个主题对象。
+这样以来，当被观察者状态发生改变时，需要通知相应的观察者，使这些观察者对象能够自动更新
+ */
 import kotlin.properties.Delegates
 
 interface StockUpdateListener {

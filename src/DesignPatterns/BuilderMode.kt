@@ -1,5 +1,10 @@
 package DesignPatterns
 
+/*
+构建者模式：构建者模式与单例模式一样，也是Gof设计模式中的一种。
+它主要做的事情就是将一个复杂对象的构建与它的表示分离，
+使得同样的构建过程可以创建不同的表示
+ */
 import java.lang.IllegalArgumentException
 
 //构建者模式
